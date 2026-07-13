@@ -1,0 +1,29 @@
+# Acompanhamento de RH - Dashboard Descritivo
+
+Este repositório contém um dashboard interativo desenvolvido no Power BI focado no acompanhamento de métricas estratégicas de Recursos Humanos (RH). O objetivo é facilitar a análise de dados como distribuição de colaboradores, salários, despesas e faltas de forma dinâmica e intuitiva.
+
+## Conteúdo do Repositório
+
+- **`Acompanhamento_RH.pbix`**: Arquivo original do Power BI contendo o modelo de dados, relacionamentos e o design do dashboard.
+- **`demonstracao.mp4`**: Um vídeo simples demonstrando o dashboard em funcionamento, detalhando os filtros interativos e a navegação.
+
+## Funcionalidades e Métricas Inclusas
+
+O dashboard apresenta as seguintes visões essenciais para a gestão de pessoas:
+
+*   Indicadores Gerais (KPIs): Total de funcionários ativos e média de idade segmentada por gênero.
+*   Distribuição Operacional: Análise quantitativa de funcionários por Gênero e por Departamentos (*Atendimento, Comercial, Estágio, Estoque, Financeiro, Gerência*).
+*   Análise Financeira:
+    *   Despesa total por filial (São Paulo, Rio de Janeiro, Minas Gerais).
+    *   Salário médio e acumulado por departamento.
+    *   Ranking detalhado de salário por funcionário.
+*   Gestão de Presença: Total de faltas acumuladas por filial.
+*   Filtros Dinâmicos: Segmentação completa por *Nome*, *Filial*, *Contratações*, *Demissões*, *Faltas* e *Gênero*, permitindo cruzar dados e extrair insights específicos imediatamente.
+
+## 🛠️ Tecnologias Utilizadas
+
+*   Power BI — Construção dos visuais, tratamento de dados (Power Query) e modelagem.
+*   Linguagem DAX — Criação de medidas customizadas para cálculo de médias e despesas.
+
+---
+Este projeto foi desenvolvido para fins demonstrativos de competências em Business Intelligence aplicado a Recursos Humanos.
