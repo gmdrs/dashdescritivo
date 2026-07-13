@@ -4,8 +4,8 @@ Este repositório contém um dashboard interativo desenvolvido no Power BI focad
 
 ## Conteúdo do Repositório
 
-- **`Acompanhamento_RH.pbix`**: Arquivo original do Power BI contendo o modelo de dados, relacionamentos e o design do dashboard.
-- **`demonstracao.mp4`**: Um vídeo simples demonstrando o dashboard em funcionamento, detalhando os filtros interativos e a navegação.
+- **`DashboardDescritivo_RH.pbix`**: Arquivo original do Power BI contendo o modelo de dados, relacionamentos e o design do dashboard.
+- **`dashboard descritivo BI.mp4`**: Um vídeo simples demonstrando o dashboard em funcionamento, detalhando os filtros interativos e a navegação.
 
 ## Funcionalidades e Métricas Inclusas
 
