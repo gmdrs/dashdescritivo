@@ -29,4 +29,4 @@ O dashboard apresenta as seguintes visões essenciais para a gestão de pessoas:
 *   Linguagem DAX — Criação de medidas customizadas para cálculo de médias e despesas.
 
 ---
-Este projeto foi desenvolvido para fins demonstrativos de competências em Business Intelligence aplicado a Recursos Humanos.
+Nota: Este projeto foi desenvolvido para fins de portfólio de competências em Business Intelligence.
