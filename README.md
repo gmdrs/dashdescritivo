@@ -1,4 +1,4 @@
-# Acompanhamento de RH - Dashboard Descritivo
+# Acompanhamento de RH em Power BI - Dashboard Descritivo
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
