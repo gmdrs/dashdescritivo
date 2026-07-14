@@ -1,5 +1,8 @@
 # Acompanhamento de RH - Dashboard Descritivo
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 Este repositório contém um dashboard interativo desenvolvido no Power BI focado no acompanhamento de métricas estratégicas de Recursos Humanos (RH). O objetivo é facilitar a análise de dados como distribuição de colaboradores, salários, despesas e faltas de forma dinâmica e intuitiva.
 
 ## Conteúdo do Repositório
